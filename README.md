@@ -26,7 +26,7 @@
 <a href="https://www.leetcode.com/skmahajan4998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skmahajan4998" height="30" width="40" /></a>
 </p>
 
-<br/>
+<br />
 
 <h1 align="left">💻 Tech Stack</h1>
 <h3 align="left">Languages:</h3>
@@ -43,7 +43,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="75"/> </a> 
 </p>
 
-
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="75"/> </a> 
@@ -57,7 +56,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="75"/> </a> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="75"/> </a> 
 </p>
-
 
 <h3 align="left">Tools & Products:</h3>
 <p align="left">
@@ -83,11 +81,13 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhthecodewizard&theme=react&hide_border=true"/></p>
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhthecodewizard&theme=react"/></p>
 
-<br/>
+<br />
  
 <h1 align="left">✍️ Random Dev Quote </h1>
 <p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" height="160"/></p>
+
 
 <h1 align="left">😂 Random Dev Meme</h1>
 <p align="left"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
