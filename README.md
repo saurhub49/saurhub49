@@ -70,6 +70,12 @@
 
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
 <h1 align="center">📊 GitHub Stats 📊</h1>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhthecodewizard&theme=react&hide_border=true"/></p>
 
