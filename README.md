@@ -28,9 +28,9 @@
 
 <br/>
 
-<h1 align="center">💻 Tech Stack 💻</h1>
-<h3 align="center">Languages:</h3>
-<p align="center">
+<h1 align="left">💻 Tech Stack</h1>
+<h3 align="left">Languages:</h3>
+<p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="75"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="75"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="75"/> </a> 
@@ -44,8 +44,8 @@
 </p>
 
 
-<h3 align="center">Frameworks & Libraries:</h3>
-<p align="center">
+<h3 align="left">Frameworks & Libraries:</h3>
+<p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="75"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="75"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="75"/> </a> 
@@ -59,8 +59,8 @@
 </p>
 
 
-<h3 align="center">Tools & Products:</h3>
-<p align="center">
+<h3 align="left">Tools & Products:</h3>
+<p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="75"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="75"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="75"/> </a> 
@@ -81,16 +81,16 @@
 
 <br />
 
-<h1 align="center">📊 GitHub Stats 📊</h1>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhthecodewizard&theme=react&hide_border=true"/></p>
+<h1 align="left">📊 GitHub Stats</h1>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhthecodewizard&theme=react&hide_border=true"/></p>
 
 <br/>
  
-<h1 align="center">✍️ Random Dev Quote ✍️</h1>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" height="160"/></p>
+<h1 align="left">✍️ Random Dev Quote </h1>
+<p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" height="160"/></p>
 
-<h1 align="center">😂 Random Dev Meme 😂</h1>
-<p align="center"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
+<h1 align="left">😂 Random Dev Meme</h1>
+<p align="left"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
 
 <br/>
 <br/>
