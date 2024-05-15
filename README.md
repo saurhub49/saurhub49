@@ -52,7 +52,7 @@
 
 <br />
 
-# Blog posts
+<h1 align="left">📰 Blog posts</h1>
 <!-- BLOG-POST-LIST:START -->
 - [S.O.L.I.D Principles - The Practical Guide](https://blog.saurabhmahajan.com/solid-principles-the-practical-guide)
 - [Object-Oriented Programming Concepts](https://blog.saurabhmahajan.com/object-oriented-programming-concepts)
