@@ -73,10 +73,6 @@
 <h1 align="left">✍️ Dev Quote </h1>
 <p align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true" height="160"/></p>
 
-
-<h1 align="left">😂 Dev Meme</h1>
-<p align="left"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
-
 <br/>
 <br/>
 <br/>
