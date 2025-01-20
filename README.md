@@ -55,11 +55,11 @@
 <h1 align="left">📰 Blog posts</h1>
 
 <!-- BLOG-POST-LIST:START -->
-- [S.O.L.I.D Principles - The Practical Guide](https://blog.saurabhmahajan.com/solid-principles-the-practical-guide)
-- [Object-Oriented Programming Concepts](https://blog.saurabhmahajan.com/object-oriented-programming-concepts)
-- [Code, Cloud and Coffee: Deploying a MySQL, Spring and React application on AWS Free Tier with CI/CD through GitHub Actions](https://blog.saurabhmahajan.com/code-cloud-and-coffee-deploying-a-mysql-spring-and-react-application-on-aws-free-tier-with-cicd-through-github-actions)
-- [Dockerizing a Fullstack Application crafted in MySQL, Spring Boot &amp; React with Docker Compose](https://blog.saurabhmahajan.com/dockerizing-a-fullstack-application-crafted-in-mysql-spring-boot-react-with-docker-compose)
-- [Navigating the Coding Odyssey: My 100DaysOfCode Challenge Journey](https://blog.saurabhmahajan.com/navigating-the-coding-odyssey-my-100daysofcode-challenge-journey)
+- [Clean Code - The Practical Guide](https://blog.saurabhmahajan.com/clean-code-the-practical-guide)
+- [Clean Code - Part-6: Classes, Objects &amp; Data Containers](https://blog.saurabhmahajan.com/clean-code-part-6-classes-objects-data-containers)
+- [Clean Code - Part-5: Control Structure &amp; Errors](https://blog.saurabhmahajan.com/clean-code-part-5-control-structure-errors)
+- [Clean Code - Part-4: Functions/Methods](https://blog.saurabhmahajan.com/clean-code-part-4-functionsmethods)
+- [Clean Code - Part-3: Code Formatting](https://blog.saurabhmahajan.com/clean-code-part-3-code-formatting)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
